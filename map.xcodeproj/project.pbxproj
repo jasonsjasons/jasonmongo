@@ -16,6 +16,7 @@
 		965986301D3D7B3D0003CFCA /* mapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9659862F1D3D7B3D0003CFCA /* mapUITests.swift */; };
 		9659863E1D3D9F970003CFCA /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9659863D1D3D9F970003CFCA /* MapKit.framework */; };
 		965986401D3DA7F50003CFCA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9659863F1D3DA7F50003CFCA /* SecondViewController.swift */; };
+		965986421D3ECDB60003CFCA /* mkannotations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965986411D3ECDB60003CFCA /* mkannotations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		965986311D3D7B3D0003CFCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9659863D1D3D9F970003CFCA /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		9659863F1D3DA7F50003CFCA /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		965986411D3ECDB60003CFCA /* mkannotations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mkannotations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9659860F1D3D7B3D0003CFCA /* AppDelegate.swift */,
 				965986111D3D7B3D0003CFCA /* ViewController.swift */,
 				965986131D3D7B3D0003CFCA /* Main.storyboard */,
+				965986411D3ECDB60003CFCA /* mkannotations.swift */,
 				9659863F1D3DA7F50003CFCA /* SecondViewController.swift */,
 				965986161D3D7B3D0003CFCA /* Assets.xcassets */,
 				965986181D3D7B3D0003CFCA /* LaunchScreen.storyboard */,
@@ -268,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				965986421D3ECDB60003CFCA /* mkannotations.swift in Sources */,
 				965986401D3DA7F50003CFCA /* SecondViewController.swift in Sources */,
 				965986121D3D7B3D0003CFCA /* ViewController.swift in Sources */,
 				965986101D3D7B3D0003CFCA /* AppDelegate.swift in Sources */,
